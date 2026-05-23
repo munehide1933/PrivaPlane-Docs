@@ -132,5 +132,3 @@ PrivaPlane is not positioned as a generic chatbot or a fake-enterprise AI platfo
 The first goal is simple: make internal knowledge easier to ask, verify, and operationalize without losing control of the environment.
 
 ---
-
-# PrivaPlane
