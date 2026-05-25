@@ -7,8 +7,14 @@ PrivaPlane is a founder-led private knowledge AI product for organizations that 
 
 PrivaPlane は、社内マニュアル、規程、FAQ、議事録、案件資料などをもとに、必要な情報を探して回答を支援する社内向け AI プロダクトです。公開 SaaS へ一気に移行するのではなく、自社で管理できる環境・資料範囲・利用者・権限を確認しながら、小さく導入して検証できることを重視しています。
 
+## Documents / 関連資料
 
-
+- [SKU A/B Comparison](./sku-a-b-comparison.md)
+- [FAQ for Buyers](./faq.md)
+- [Demo Flow (20-30 min)](./demo-flow.md)
+- [Deployment Options](./deployment-options.md)
+- [Acceptance Deliverables](./acceptance-deliverables.md)
+- [Contact & First Call](./CONTACT.md)
 
 ## 日本語
 
