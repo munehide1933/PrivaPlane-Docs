@@ -9,12 +9,12 @@ PrivaPlane は、社内マニュアル、規程、FAQ、議事録、案件資料
 
 ## Documents / 関連資料
 
-- [SKU A/B Comparison](./sku-a-b-comparison.md)
-- [FAQ for Buyers](./faq.md)
-- [Demo Flow (20-30 min)](./demo-flow.md)
-- [Deployment Options](./deployment-options.md)
-- [Acceptance Deliverables](./acceptance-deliverables.md)
-- [Contact & First Call](./CONTACT.md)
+- [SKU 比較表 (SKU A/B Comparison)](./sku-a-b-comparison.md)
+- [購買向け FAQ (FAQ for Buyers)](./faq.md)
+- [遠隔デモ進行 (Demo Flow 20-30 min)](./demo-flow.md)
+- [導入オプション (Deployment Options)](./deployment-options.md)
+- [受け入れ交付物 (Acceptance Deliverables)](./acceptance-deliverables.md)
+- [お問い合わせ・初回相談 (Contact & First Call)](./CONTACT.md)
 
 ## 日本語
 
