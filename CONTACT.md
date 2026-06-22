@@ -21,7 +21,7 @@ PrivaPlane の初回相談は、営業トークを長く聞く場ではなく、
 ### 相談後に受け取れるもの
 
 - 初期スコープ案（対象資料・対象部署）
-- 想定導入方式（ローカル実行 / GPU Linux / CPU-only 可否）
+- 想定導入方式（Mac / Linux / 限定運用可否）
 - 受け入れ確認の進め方（質問セット、根拠確認、交付物）
 - 次回までに双方が準備する項目
 
@@ -57,7 +57,7 @@ The first PrivaPlane call is designed for a quick feasibility check, not a long 
 ### What You Receive After the Call
 
 - Proposed initial scope (documents and teams)
-- Suggested deployment path (local Mac, GPU Linux, or CPU-only constraints)
+- Suggested deployment path (Mac, Linux, or limited-use constraints)
 - Acceptance approach (question set, citations, deliverables)
 - Next-step checklist for both sides
 
